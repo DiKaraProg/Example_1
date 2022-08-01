@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "123",
+    "LastName": "123",
+    "FatherName": "123",
+    "PhoneNumber": "1231213",
+    "Passport": "123",
+    "Email": "123",
+    "Listaccount": [
+      {
+        "$type": "MOdule13_OOP.DepositAccount, Library_Module_13_OOP",
+        "typeAccount": 1,
+        "Sum": 0.0,
+        "TypeAccount": 1,
+        "AccountId": 1
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "FirstName": "123",
+    "LastName": "123",
+    "FatherName": "123",
+    "PhoneNumber": "123",
+    "Passport": "123",
+    "Email": "123",
+    "Listaccount": [
+      {
+        "$type": "MOdule13_OOP.DepositAccount, Library_Module_13_OOP",
+        "typeAccount": 1,
+        "Sum": 1600.0,
+        "TypeAccount": 1,
+        "AccountId": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+﻿<Window x:Class="Example_1.EventLog_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example_1"
+        mc:Ignorable="d"
+        Title="EventLog_Window" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="733*"/>
+            <ColumnDefinition Width="67*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="199*"/>
+        </Grid.RowDefinitions>
+        <ListView Background="LightGray" Margin="10,10,10,10" x:Name="ListEvent" Grid.Row="1" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="Пользователь" DisplayMemberBinding="{Binding User}"/>
+                        <GridViewColumn Header="Выполняемое действие" DisplayMemberBinding="{Binding EventUser}"/>
+                        <GridViewColumn Header="Время выполнения операции" DisplayMemberBinding="{Binding EventTime}"/>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Exit" Grid.Column="1" Grid.Row="0" Click="Button_Click_Exit"/>
+
+    </Grid>
+</Window>

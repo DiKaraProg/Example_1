@@ -1,0 +1,20 @@
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.csproj.AssemblyReference.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\bin\Debug\Library_Module_13_OOP.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\bin\Debug\Library_Module_13_OOP.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.csproj.CopyComplete
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Домашка\Домашняя работа\Домашняя работа\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\bin\Debug\Library_Module_13_OOP.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\bin\Debug\Library_Module_13_OOP.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.csproj.AssemblyReference.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.csproj.CopyComplete
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Домашняя_Работа_Основные_Проекты\Library_Module_13_OOP\obj\Debug\Library_Module_13_OOP.pdb
